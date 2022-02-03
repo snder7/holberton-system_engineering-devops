@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 $ ./1-listit
 Applications Documents Dropbox Movies Pictures
